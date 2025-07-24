@@ -1,0 +1,6 @@
+python-telegram-bot==20.4
+ccxt==1.109.49
+pandas==2.0.2
+matplotlib==3.7.1
+mplfinance==0.12.9a7
+apscheduler==3.10.1
